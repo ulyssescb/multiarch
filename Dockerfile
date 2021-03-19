@@ -1,0 +1,4 @@
+FROM scratch
+
+CMD ["/hello"]
+
